@@ -15,5 +15,5 @@ if (num) {
 } else {
    console.log('NaN это не число !');
    console.log(isNaN(num));
-   alert('Упс, кажется, вы ошиблись')
+   alert('Упс, кажется, вы ошиблись.')
 }
